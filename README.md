@@ -2,9 +2,6 @@
 ![Untitled design](https://github.com/rutikdevops/DevOps-Project-5/assets/109506158/57486c5c-0186-4f47-b250-2911b5c91c97)
 <br></br>
 
-# Project Blog link :-
-- https://medium.com/@rutikdevops/devops-project-5-c2f0a05e8710
-<br></br>
 
 # Project Overview :-
 - 🚀 Building a Resilient Flask App with MySQL, Docker, and Docker-Compose🌐
